@@ -1,0 +1,24 @@
+
+*{
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-image: url(./images/fondo-c.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+}
+.a{
+    width: 45%;
+    display: inline-block;
+  }
+.b{
+    width: 45%;
+    display: inline-block;
+   }
+p{
+    color: black;
+    width: 30vh;
+    letter-spacing: 2px;
+    font-size: 3rem;
+}
